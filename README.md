@@ -1,2 +1,0 @@
-# GeekBrains-Projects
-For homework
